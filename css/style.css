@@ -103,7 +103,7 @@ video {
 /* Custom font */
 @font-face {
   font-family: 'odyssey';
-  src: url('../assets/fonts/Odyssey Regular.TTF') format('opentype');
+  src: url('../assets/fonts/') format('opentype');
   font-weight: normal;
   font-style: normal;
 }
