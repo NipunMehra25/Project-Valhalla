@@ -24,14 +24,13 @@ body {
 
 /* Spline viewer */
 spline-viewer {
-  cursor: pointer;
   width: 100vw;
   height: 100vh;
   border: none;
   position: absolute;
   top: 22vh;
   left: -2.5vw;
-  z-index: 1000;
+  z-index: 5;
 }
 
 /* Section backgrounds */
@@ -107,3 +106,5 @@ video {
   font-weight: normal;
   font-style: normal;
 }
+
+
